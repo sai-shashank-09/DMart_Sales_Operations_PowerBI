@@ -28,8 +28,3 @@ DMart aims to improve business decision-making using data-driven insights. This 
 - Analyzed revenue contribution by product types
 - Studied impact of discounts and website engagement on purchases
 - Highlighted shipping efficiency and order cancellation patterns
-
-## How to Use
-1. Download the .pbix file
-2. Open using Power BI Desktop
-3. Use slicers to explore insights by date, category, and region
